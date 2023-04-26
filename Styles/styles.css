@@ -1,0 +1,81 @@
+       body {
+            font-family :'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color :rgb(10, 10, 96);
+            font-size: medium;
+            }
+            * {
+                box-sizing: border-box;
+              }
+              
+              .box {
+                display: inline-block;
+                width: 100px;
+                height: 100px;
+                background: rgb(245, 235, 235);
+                color: white;
+              }
+              
+              #SwanGirl {
+                position: relative;
+                top: 20px;
+                left: 20px;
+                background: rgb(97, 145, 208);
+              }
+              * {
+                box-sizing: border-box;
+              }
+              
+              .box {
+                display: inline-block;
+                width: 100px;
+                height: 100px;
+                background: rgb(245, 235, 235);
+                color: white;
+              }
+              
+              #Video {
+                position: relative;
+                top: 20px;
+                left: 20px;
+                background: rgb(97, 145, 208);
+              }
+        body {
+                width: 500px;
+                margin: 0 auto;
+              }
+            
+            * {
+              box-sizing: border-box;
+            }
+            
+            .box {
+              display: inline-block;
+              width: 100px;
+              height: 100px;
+              background: rgb(245, 235, 235);
+              color: white;
+            }
+            
+            #tableau {
+              position: absolute;
+              top: 1200px;
+              left: 20px;
+              background: rgb(97, 145, 208);
+            }
+      body {
+              width: 500px;
+              margin: 0 auto;
+            }
+            .positioned {
+                position: absolute;
+                background: yellow;
+                top: 30000px;
+                left: 30px
+            }
+              
+             
+            
+              
+            
+
+        
